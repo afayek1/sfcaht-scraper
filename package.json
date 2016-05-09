@@ -1,0 +1,13 @@
+{
+  "name": "sfcaht-web-scrape",
+  "version": "0.0.1",
+  "description": "Scrape le web.",
+  "main": "server.js",
+  "author": "Scotch",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "cheerio": "latest",
+    "express": "latest",
+    "request": "latest"
+  }
+}

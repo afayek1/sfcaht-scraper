@@ -1,0 +1,168 @@
+{
+    "services": {
+        "Case Management": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/asian-womens-shelter.html",
+            "/bay-area-women-against-rape.html",
+            "/freedom-house.html",
+            "/freedom-house--the-nest.html",
+            "/gum-moon-residence-halls.html",
+            "/huckleberry-house.html",
+            "/la-casa-de-las-madres.html",
+            "/larkin-street-youth-services.html",
+            "/misssey.html",
+            "/the-riley-center.html",
+            "/san-francisco-safe-house.html",
+            "/sojourner-truth-foster-family-service-agency.html",
+            "/west-coast-childrenrsquos-clinic-ndash-c-change-program.html"
+        ],
+        "Education/Training/Career Counseling": [
+            "/courage-house.html",
+            "/freedom-house.html",
+            "/gum-moon-residence-halls.html",
+            "/larkin-street-youth-services.html",
+            "/love-never-fails.html",
+            "/misssey.html",
+            "/mujeres-unidas-y-activas.html",
+            "/nalls-foundation1.html",
+            "/the-riley-center.html",
+            "/san-francisco-safe-house.html",
+            "/sds-hope-house.html"
+        ],
+        "Emergency Shelter/Services": [
+            "/asian-womens-shelter.html",
+            "/freedom-house.html",
+            "/huckleberry-house.html",
+            "/la-casa-de-las-madres.html",
+            "/larkin-street-youth-services.html",
+            "/love-never-fails.html",
+            "/nalls-foundation1.html",
+            "/refugee-medical-clinic.html",
+            "/the-riley-center.html",
+            "/sds-hope-house.html"
+        ],
+        "Hotline": [
+            "/asian-womens-shelter.html",
+            "/la-casa-de-las-madres.html",
+            "/national-human-trafficking-resource-center.html",
+            "/the-riley-center.html"
+        ],
+        "Legal": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/center-for-gender-and-refugee-studies.html",
+            "/heat-watch.html",
+            "/katherine-and-george-alexander-community-law-center.html",
+            "/law-offices-of-rose-mukhar.html",
+            "/lawyersrsquo-committee-for-civil-rights-of-the-san-francisco-bay-area.html",
+            "/legal-aid-of-marin.html",
+            "/legal-aid-of-napa-valley.html",
+            "/-victim-services-division-sf-district-attorney.html"
+        ],
+        "Long Term Housing": [
+            "/asian-womens-shelter.html",
+            "/courage-house.html",
+            "/freedom-house.html",
+            "/freedom-house--the-nest.html",
+            "/gum-moon-residence-halls.html",
+            "/larkin-street-youth-services.html",
+            "/nalls-foundation1.html",
+            "/san-francisco-safe-house.html",
+            "/sds-hope-house.html"
+        ],
+        "Medical Health": [
+            "/newcomers-health-program.html",
+            "/refugee-medical-clinic.html",
+            "/tom-waddell-urgent-care-clinic.html"
+        ],
+        "Mental Health/Counseling": [
+            "/bay-area-women-against-rape.html",
+            "/courage-house.html",
+            "/freedom-house--the-nest.html",
+            "/huckleberry-house.html",
+            "/la-casa-de-las-madres.html",
+            "/larkin-street-youth-services.html",
+            "/mujeres-unidas-y-activas.html",
+            "/national-council-of-jewish-women.html",
+            "/refugee-medical-clinic.html",
+            "/san-francisco-safe-house.html",
+            "/sds-hope-house.html",
+            "/shade-project.html",
+            "/sojourner-truth-foster-family-service-agency.html",
+            "/tom-waddell-urgent-care-clinic.html",
+            "/west-coast-childrenrsquos-clinic-ndash-c-change-program.html"
+        ],
+        "Referrals": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/asian-womens-shelter.html",
+            "/bay-area-sex-worker-advocacy-network.html",
+            "/because-justice-matters.html",
+            "/gum-moon-residence-halls.html",
+            "/heat-watch.html",
+            "/legal-aid-of-napa-valley.html",
+            "/mujeres-unidas-y-activas.html",
+            "/national-human-trafficking-resource-center.html",
+            "/national-council-of-jewish-women.html",
+            "/newcomers-health-program.html",
+            "/refugee-medical-clinic.html",
+            "/the-riley-center.html",
+            "/san-francisco-mental-health-clients-rights-advocates.html",
+            "/sds-hope-house.html",
+            "/sojourner-truth-foster-family-service-agency.html",
+            "/victim-compensation-and-government-claims-board.html",
+            "/-victim-services-division-sf-district-attorney.html",
+            "/us-attorneys-office-victim-witness-assistance.html"
+        ],
+        "Resource Coordination/Advocacy": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/asian-womens-shelter.html",
+            "/bay-area-women-against-rape.html",
+            "/freedom-house.html",
+            "/huckleberry-house.html",
+            "/la-casa-de-las-madres.html",
+            "/lawyersrsquo-committee-for-civil-rights-of-the-san-francisco-bay-area.html",
+            "/misssey.html",
+            "/nalls-foundation1.html",
+            "/the-riley-center.html",
+            "/san-francisco-mental-health-clients-rights-advocates.html",
+            "/sds-hope-house.html",
+            "/sojourner-truth-foster-family-service-agency.html"
+        ],
+        "Safe Space/Drop-In Center": [
+            "/bay-area-women-against-rape.html",
+            "/la-casa-de-las-madres.html",
+            "/misssey.html"
+        ],
+        "Substance-Abuse Counseling": [
+            "/freedom-house--the-nest.html",
+            "/larkin-street-youth-services.html",
+            "/san-francisco-safe-house.html"
+        ],
+        "Trainings": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/asian-womens-shelter.html",
+            "/bay-area-women-against-rape.html",
+            "/bay-area-sex-worker-advocacy-network.html",
+            "/center-for-gender-and-refugee-studies.html",
+            "/gum-moon-residence-halls.html",
+            "/heat-watch.html",
+            "/katherine-and-george-alexander-community-law-center.html",
+            "/law-offices-of-rose-mukhar.html",
+            "/love-never-fails.html",
+            "/misssey.html",
+            "/national-council-of-jewish-women.html",
+            "/newcomers-health-program.html",
+            "/sds-hope-house.html",
+            "/shade-project.html",
+            "/sojourner-truth-foster-family-service-agency.html",
+            "/west-coast-childrenrsquos-clinic-ndash-c-change-program.html"
+        ],
+        "Translation/Interpretation": [
+            "/asian-pacific-islander-legal-outreach.html",
+            "/asian-womens-shelter.html",
+            "/gum-moon-residence-halls.html",
+            "/newcomers-health-program.html",
+            "/san-francisco-mental-health-clients-rights-advocates.html",
+            "/sds-hope-house.html"
+        ]
+    }
+}
